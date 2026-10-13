@@ -1,0 +1,13 @@
+{
+  "name": "Clover Studios",
+  "short_name": "Clover",
+  "description": "For-hire Roblox development built around scripting and programming.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101916",
+  "theme_color": "#101916",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
